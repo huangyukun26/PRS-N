@@ -1,4 +1,4 @@
-## PRS-Net: Planar Reflective Symmetry Detection Net for 3D Models
+## Planar Reflective Symmetry Detection Net for 3D Models
 
 PRS-Net模型复现
 
